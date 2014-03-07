@@ -249,7 +249,7 @@
 							}
 							else {
 								$(jtarget).attr("checked",false)
-								alert(response);
+								//alert(response);
 								return false;
 							}
 						}
